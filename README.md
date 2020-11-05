@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m kyrilin, a web developer
+- 🔭 I’m kyrielin, a web developer
 - 🏢 I'm currently working at **Tencent CDC**
 
 - 🚀 I use daily:
