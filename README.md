@@ -13,8 +13,6 @@
   ![Webpack](https://img.shields.io/badge/-Webpack-3b2e5a?style=plastic&logo=webpack)
   ![Sass](https://img.shields.io/badge/-Sass-3b2e5a?style=plastic&logo=Sass)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-- 📒I'm recording at juejin：
-  ![CSDN](https://img.shields.io/badge/-掘金-007fff)
 
 <a href="https://juejin.im/user/2084329774646413">![panel](https://github-readme-stats.vercel.app/api?username=honkinglin)</a>
 
