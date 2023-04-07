@@ -14,8 +14,6 @@
   ![Sass](https://img.shields.io/badge/-Sass-3b2e5a?style=plastic&logo=Sass)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
-<a href="https://juejin.im/user/2084329774646413">![panel](https://github-readme-stats.vercel.app/api?username=honkinglin)</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-contribution-grid-snake.svg">
