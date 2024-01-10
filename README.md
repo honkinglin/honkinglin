@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m Kyrie Lin, a passionate self-taught front-end web developer from China.
-- 🏢 I'm currently working at **Tencent**.
+- 🏢 I used to work at **Tencent**.
 - 😋 I enjoy coding for fun and making toy projects.
 - 🔥 I like to turn ideas into reality through code so that more people can benefit from them, which is where my passion for software development comes from.
 - 🛠️ I use daily:
