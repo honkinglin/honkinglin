@@ -1,9 +1,18 @@
 ### Hi there 👋
 
+<p>
+  <a href="https://stackoverflow.com/users/13625125/kyrielin">
+    <img src="https://img.shields.io/badge/-kyrielin-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13625125/kyrielin">
+   <a/>
+  <a href="https://www.linkedin.com/in/kyrie-lin/">
+    <img src="https://img.shields.io/badge/-kyrielin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyrie-lin/">
+  <a/>
+</p>
 
-- 🔭 I’m Kyrie Lin, a passionate self-taught front-end web developer from China.
-- 🏢 I used to work at **Tencent**.
-- 😋 I enjoy coding for fun and making toy projects.
+- 🔭 I’m Kyrie Lin, a passionate self-taught front-end developer from China.
+- 🏢 I used to be a senior front-end developer at **Tencent**.
+- 🧑🏻‍💻 I'm currently studying MSACS at FDU Vancouver campus.
+- 😋 I enjoy coding for fun and expect to be a full-stack development engineer.
 - 🔥 I like to turn ideas into reality through code so that more people can benefit from them, which is where my passion for software development comes from.
 - 🛠️ I use daily:
   ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
