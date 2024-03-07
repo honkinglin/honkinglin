@@ -9,6 +9,7 @@
   <a/>
 </p>
 
+-------
 - 🔭 I’m Kyrie Lin, a passionate self-taught front-end developer from China.
 - 🏢 I used to be a senior front-end developer at **Tencent**.
 - 🧑🏻‍💻 I'm currently studying MSACS at FDU Vancouver campus.
@@ -22,6 +23,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+-------
 
 ### 📈 GitHub Stats
 
