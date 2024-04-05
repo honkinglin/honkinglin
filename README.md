@@ -25,10 +25,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 -------
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/honkinglin/honkinglin/output/github-snake.svg" />
 </picture>
