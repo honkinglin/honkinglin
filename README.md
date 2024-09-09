@@ -10,11 +10,11 @@
 </p>
 
 -------
-- 🔭 I’m Kyrie Lin, a passionate self-taught front-end developer from China.
-- 🏢 I used to be a senior front-end developer at **Tencent**.
-- 🧑🏻‍💻 I'm currently studying MSACS at FDU Vancouver campus.
-- 😋 I enjoy coding for fun and expect to be a full-stack development engineer.
-- 🔥 I like to turn ideas into reality through code so that more people can benefit from them, which is where my passion for software development comes from.
+- 🔭 Hi, I’m Kyrie Lin, a passionate self-taught front-end developer from China.
+- 🏢 I formerly worked as a senior front-end developer at Tencent.
+- 🧑🏻‍💻 Currently, I’m pursuing an MSACS degree at the FDU Vancouver campus.
+- 😋 I love coding for fun and aim to become a full-stack development engineer.
+- 🔥 My passion for software development comes from transforming ideas into reality through code, so that more people can benefit from them.
 - 🛠️ I use daily:
   ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
