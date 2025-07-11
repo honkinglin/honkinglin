@@ -12,7 +12,7 @@
 -------
 - 🔭 Hi, I’m Kyrie Lin, a passionate self-taught front-end developer from China.
 - 🏢 I formerly worked as a senior front-end developer at Tencent.
-- 🧑🏻‍💻 Currently, I'm living in Vancouver and searching for a job.
+- 🧑🏻‍💻 Currently, I'm living in Vancouver and looking for a job.
 - 😋 I love coding for fun and aim to become a full-stack development engineer.
 - 🔥 My passion for software development comes from transforming ideas into reality through code, so that more people can benefit from them.
 - 🛠️ I use daily:
