@@ -10,7 +10,7 @@
 </p>
 
 -------
-- 🔭 Hi, there, I'm a passionate self-taught front-end developer from China.
+- 🔭 I'm a passionate self-taught front-end developer from China.
 - 🏢 I formerly worked as a senior front-end developer at Tencent.
 - 🧑🏻‍💻 Currently, I'm living in Vancouver and looking for a job.
 - 😋 I love coding for fun and aim to become a full-stack development engineer.
