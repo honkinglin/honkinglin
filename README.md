@@ -1,25 +1,19 @@
 ### Hi there 👋
 
-<p>
-  <a href="https://stackoverflow.com/users/13625125/kyrielin">
-    <img src="https://img.shields.io/badge/-kyrielin-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13625125/kyrielin">
-   <a/>
-  <a href="https://www.linkedin.com/in/kyrie-lin/">
-    <img src="https://img.shields.io/badge/-kyrielin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyrie-lin/">
-  <a/>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=honkinglin&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
--------
-- 🔭 I'm a passionate self-taught front-end developer from China.
-- 🏢 I formerly worked as a senior front-end developer at Tencent.
+- 🔭 I'm Kyrie, a passionate web developer from China.
+- 🏢 I formerly worked as a senior software engineer at Tencent.
 - 🧑🏻‍💻 Currently, I'm living in Vancouver and looking for a job.
-- 😋 I love coding for fun and aim to become a full-stack development engineer.
-- 🔥 My passion for software development comes from transforming ideas into reality through code, so that more people can benefit from them.
+- 😋 I love coding for fun and bringing ideas to life through code.
 - 🛠️ I use daily:
   ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vite](https://img.shields.io/badge/-Vite-3b2e5a?style=plastic&logo=vite)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=openjdk&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
