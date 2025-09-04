@@ -6,7 +6,7 @@
 
 💼 Former senior software engineer at Tencent.    
 
-🌍 Currently in Vancouver, exploring new opportunities.  
+🌍 Currently in Canada, exploring new opportunities.  
 
 ✨ I enjoy coding for fun and bringing ideas to life.    
 
