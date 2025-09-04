@@ -2,11 +2,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=honkinglin&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 👨‍💻 I'm Kyrie, a passionate web developer from China.  
-- 💼 Former senior software engineer at Tencent.  
-- 🌍 Based in Vancouver, currently seeking new opportunities.  
-- ✨ I enjoy coding for fun and bringing ideas to life.  
-- 🛠 Tech I use daily:  
+👨‍💻 I'm Kyrie, a passionate web developer from China.    
+
+💼 Former senior software engineer at Tencent.    
+
+🌍 Based in Vancouver, currently seeking new opportunities.    
+
+✨ I enjoy coding for fun and bringing ideas to life.    
+
+ 🛠 Tech I use daily:
+ 
   ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=plastic&logo=typescript)
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
@@ -17,7 +22,8 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
--------
+
+---
 
 ### GitHub Stats
 
